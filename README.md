@@ -29,7 +29,7 @@ The goal of this project is to:
 ---
 
 ## 💻 How to View
-You can view the live page here (if published):  
+You can view the live page here:  
 👉 [https://shanuz123.github.io/Shanavas-Personal-Website/](https://shanuz123.github.io/Shanavas-Personal-Website/)
 
 ---
